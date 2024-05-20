@@ -1,3 +1,5 @@
+Hi there
+
 import pygame
 import math
 from copy import copy
